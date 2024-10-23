@@ -1,0 +1,20 @@
+button{
+    background-color: red;
+    border-radius: 20%;
+}
+body{
+    background-color:greenyellow;
+}
+button:hover{
+    background-color: white;
+}
+label{
+    background-color: red;
+    color: white;
+}
+input{
+    border-color: red;
+}
+p,h1{
+    color: white;
+}
